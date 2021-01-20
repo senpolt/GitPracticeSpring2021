@@ -14,5 +14,6 @@ public class StringPractice {
 
         }
         System.out.println(c);
+        System.out.println("Practice");
     }
 }
