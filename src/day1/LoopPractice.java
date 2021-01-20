@@ -9,5 +9,6 @@ public class LoopPractice {
 
         }
         System.out.println("Java");
+        System.out.println("update");
     }
 }
